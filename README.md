@@ -1,4 +1,4 @@
-# 20 11 25 JS Conditionals
+# 20 11 25 Conditionals Lecture
 
 ## Set Up
 1. Create an html file with an `h1` rendering the assignment title
